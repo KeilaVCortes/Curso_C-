@@ -1,2 +1,2 @@
 # Curso_C++
-Programas C++
+Programas en C++
